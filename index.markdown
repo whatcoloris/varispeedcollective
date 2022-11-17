@@ -6,8 +6,3 @@ layout: home
 ---
 
 Welcome to the website of Varispeed Collective
-
-{% assign date = site.time %}
-
-- Origitnal date - {{ date }}
-- With timeago filter - {{ date | timeago }}
