@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Varispeed Collective
+title: "Varispeed Collective"
 email: varispeedcollective@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Official Website for Varispeed Collective, a group of composer
+ Official Website for Varispeed Collective, a group of composer
  performers making new, durational, and site-specific arrangements of
  epic works from New Music.
 baseurl: "" # the subpath of your site, e.g. /blog
